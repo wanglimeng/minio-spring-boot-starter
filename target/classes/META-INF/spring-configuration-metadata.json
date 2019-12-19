@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.wanglimeng.minio.config.MinioConfig",
+      "name": "minio",
+      "type": "com.wanglimeng.minio.config.MinioConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.wanglimeng.minio.config.MinioConfig",
+      "name": "minio.bucket",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.wanglimeng.minio.config.MinioConfig",
+      "name": "minio.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.wanglimeng.minio.config.MinioConfig",
+      "name": "minio.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.wanglimeng.minio.config.MinioConfig",
+      "name": "minio.username",
+      "type": "java.lang.String"
+    }
+  ]
+}

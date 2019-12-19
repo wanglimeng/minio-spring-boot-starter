@@ -1,0 +1,4 @@
+com\wanglimeng\minio\config\MinioConfig.class
+com\wanglimeng\minio\service\MinioService.class
+com\wanglimeng\minio\MinioAutoConfiguration.class
+META-INF\spring-configuration-metadata.json
